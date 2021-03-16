@@ -83,8 +83,6 @@ http://190.13.162.66:8081/play/a01s
 http://190.13.162.66:8081/play/a01n
 #EXTINF:-1,Nick Jr
 http://190.13.162.66:8081/play/a010
-#EXTINF:-1,RCN Novelas
-http://190.13.162.66:8081/play/a022
 #EXTINF:-1,Sony
 http://190.13.162.66:8081/play/a00v
 #EXTINF:-1,Space
@@ -97,10 +95,6 @@ http://190.13.162.66:8081/play/a01x
 http://190.13.162.66:8081/play/a01f
 #EXTINF:-1,TNT
 http://190.13.162.66:8081/play/a020
-#EXTINF:-1,TVEDUCA
-http://190.13.162.66:8081/play/a00s
-#EXTINF:-1,TVN
-http://190.13.162.66:8081/play/a00b
 #EXTINF:-1,Telemundo
 http://190.13.162.66:8081/play/a01k
 #EXTINF:-1,TyC Sports
