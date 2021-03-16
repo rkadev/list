@@ -73,10 +73,12 @@ http://190.13.162.66:8081/play/a00m
 http://190.13.162.66:8081/play/a00n
 #EXTINF:-1,History Channel
 http://190.13.162.66:8081/play/a01o
-#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="MyC - HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="• MUNDO Y CULTURA",MyC - HGTV
+#EXTINF:-1,MyC - HGTV
 http://tv.cablestream.io:8080/noelia/1234/3252
 #EXTINF:-1,Home and Health
 http://190.13.162.66:8081/play/a025
+#EXTINF:-1,DiscoveryHomeHealth
+http://tv.cablestream.io:8080/noelia/1234/3083
 #EXTINF:-1,Nat Geo
 http://190.13.162.66:8081/play/a01n
 #EXTINF:-1,Nick Jr
