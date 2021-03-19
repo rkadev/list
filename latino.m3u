@@ -83,8 +83,6 @@ http://190.13.162.66:8081/play/a01o
 http://tv.cablestream.io:8080/noelia/1234/3252
 #EXTINF:-1,Home and Health
 http://190.13.162.66:8081/play/a025
-#EXTINF:-1,DiscoveryHomeHealth
-http://tv.cablestream.io:8080/noelia/1234/3083
 #EXTINF:-1,Nat Geo
 http://190.13.162.66:8081/play/a01n
 #EXTINF:-1,Nick Jr
