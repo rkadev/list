@@ -83,6 +83,8 @@ http://190.13.162.66:8081/play/a01o
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/40953
 #EXTINF:-1,Home and Health
 http://190.13.162.66:8081/play/a025
+#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="Discovery Home & Healt ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/TiT-88Wa1rj7j8qsX3JmPDoZJAkuT0ByRS4P8DmTmtGnugfWKExFG14W9ypFmueTSZ6BDNTv0rnoLlFfmBWVTZCdabLl7usoELkOjDSvGNW947jx3-ncS3H18Mfib5GpRuaIFz1poA" group-title="LATINOS SD",Discovery Home & Healt ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55406
 #EXTINF:-1,Nat Geo
 http://190.13.162.66:8081/play/a01n
 #EXTINF:-1,Nick Jr
