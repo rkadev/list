@@ -1,109 +1,1703 @@
 #EXTM3U
-#EXTINF:-1,AE Mundo
-http://190.13.162.66:8081/play/a01e
-#EXTINF:-1,AXN
-http://190.13.162.66:8081/play/a02a
-#EXTINF:-1,AXN
-http://190.13.162.66:8081/play/a00w
-#EXTINF:-1,Animal Planet
-http://190.13.162.66:8081/play/a029
-#EXTINF:-1,CNN Espanol
-http://190.13.162.66:8081/play/a009
-#EXTINF:-1,Canal 13
-http://190.13.162.66:8081/play/a00e
-#EXTINF:-1,Canal de Las estrellas
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1164
-#EXTINF:-1,Canal 5
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3842
-#EXTINF:-1,IMAGEN NOTICIAS SD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3822
-#EXTINF:-1,Cinecanal
-http://190.13.162.66:8081/play/a01p
-#EXTINF:-1,Cinemax
-http://190.13.162.66:8081/play/a00u
-#EXTINF:-1,Discovery Channel
-http://190.13.162.66:8081/play/a015
-#EXTINF:-1,Discovery ID
-http://190.13.162.66:8081/play/a023
-#EXTINF:-1,Discovery Kids
-http://190.13.162.66:8081/play/a008
-#EXTINF:-1,Discovery Turbo
-http://190.13.162.66:8081/play/a011
-#EXTINF:-1,Disney Channel
-http://190.13.162.66:8081/play/a014
-#EXTINF:-1,Disney Jr
-http://190.13.162.66:8081/play/a00p
-#EXTINF:-1,Disney XD
-http://190.13.162.66:8081/play/a01m
-#EXTINF:-1,E Entertainment
-http://190.13.162.66:8081/play/a018
-#EXTINF:-1,ESPN
-http://190.13.162.66:8081/play/a01a
-#EXTINF:-1,TDN DEPORTES
-http://011011011.com:8080/vuemedia/587yt65r/24984
-#EXTINF:-1 tvg-id="" tvg-name="LIGA MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV LIGAS DE FÚTBOL",LIGA MX 2
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58271
-#EXTINF:-1,ESPN 2
-http://190.13.162.66:8081/play/a00r
-#EXTINF:-1,ESPN 3
-http://190.13.162.66:8081/play/a013
-#EXTINF:-1,FOX P ACTION
-http://190.13.162.66:8081/play/a00k
-#EXTINF:-1,FOX P MOVIES
-http://190.13.162.66:8081/play/a00i
-#EXTINF:-1,FOX P SERIES E
-http://190.13.162.66:8081/play/a00j
-#EXTINF:-1,FX
-http://190.13.162.66:8081/play/a00y
-#EXTINF:-1,FX Movies
-http://190.13.162.66:8081/play/a00f
-#EXTINF:-1,Fox Channel
-http://190.13.162.66:8081/play/a01r
-#EXTINF:-1,Fox Life
-http://190.13.162.66:8081/play/a01v
-#EXTINF:-1,Fox Sports MX
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55378
-#EXTINF:-1,HBO
-http://190.13.162.66:8081/play/a00t
-#EXTINF:-1,HBO 2
-http://190.13.162.66:8081/play/a00l
-#EXTINF:-1,HBO Family
-http://190.13.162.66:8081/play/a00o
-#EXTINF:-1,HBO Plus
-http://190.13.162.66:8081/play/a00m
-#EXTINF:-1,HBO XTREME SD
-http://190.13.162.66:8081/play/a00n
-#EXTINF:-1,History Channel
-http://190.13.162.66:8081/play/a01o
-#EXTINF:-1,MyC - HGTV
-http://011011011.com:8080/vuemedia/587yt65r/10879
-#EXTINF:-1,Home and Health
-http://190.13.162.66:8081/play/a025
-#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="Discovery Home & Healt ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/TiT-88Wa1rj7j8qsX3JmPDoZJAkuT0ByRS4P8DmTmtGnugfWKExFG14W9ypFmueTSZ6BDNTv0rnoLlFfmBWVTZCdabLl7usoELkOjDSvGNW947jx3-ncS3H18Mfib5GpRuaIFz1poA" group-title="LATINOS SD",Discovery Home & Healt ⁽ˢᵈ⁾
-http://011011011.com:8080/vuemedia/587yt65r/140599
-#EXTINF:-1,Nat Geo
-http://190.13.162.66:8081/play/a01n
-#EXTINF:-1,Nick Jr
-http://190.13.162.66:8081/play/a010
-#EXTINF:-1,Sony
-http://190.13.162.66:8081/play/a00v
-#EXTINF:-1,Space
-http://190.13.162.66:8081/play/a00x
-#EXTINF:-1,TBS
-http://190.13.162.66:8081/play/a024
-#EXTINF:-1,TCM
-http://190.13.162.66:8081/play/a01x
-#EXTINF:-1,TLC
-http://190.13.162.66:8081/play/a01f
-#EXTINF:-1,TNT
-http://190.13.162.66:8081/play/a020
-#EXTINF:-1,Telemundo
-http://190.13.162.66:8081/play/a01k
-#EXTINF:-1,TyC Sports
-http://190.13.162.66:8081/play/a01c
-#EXTINF:-1,Universal
-http://190.13.162.66:8081/play/a01q
-#EXTINF:-1,Warner
-http://190.13.162.66:8081/play/a017
-#EXTINF:-1 tvg-id="holatv.co" tvg-name="HOLA TV ⁽ᴴᴰ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/us98sz9Mmew2uFHyjvtwGr3kA0YJLpZBSrOXT3TY8coegUI3D9gUs9oKAf65hAxQ2yH4F8mRJKA5jpsBc_0o3BmdFMhnpQd0kMLoObewfO0eorFrzsAA7g" group-title="ENTRETENCIÓN",HOLA TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55199
+#EXTINF:-1,MX || Las Estrellas SD Opc. 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81788
+#EXTINF:-1,MX || Las Estrellas SD Opc. 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81807
+#EXTINF:-1,MX || Las Estrellas SD Opc. 3
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81816
+#EXTINF:-1,MX || Las Estrellas SD Opc. 4
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81836
+#EXTINF:-1,MX || Las Estrellas SD Opc. 5
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81758
+#EXTINF:-1,MX || Las Estrellas HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81994
+#EXTINF:-1,MX || Las Estrellas HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81683
+#EXTINF:-1,MX || Canal 5 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81991
+#EXTINF:-1,MX || Canal 5 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81833
+#EXTINF:-1,MX || Foro Tv SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81834
+#EXTINF:-1,MX || Foro TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81992
+#EXTINF:-1,MX || A+
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81930
+#EXTINF:-1,MX || A&E HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81947
+#EXTINF:-1,MX || A&E SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81780
+#EXTINF:-1,MX || A+ HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81762
+#EXTINF:-1,MX || A+ SD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81756
+#EXTINF:-1,MX || A+ SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81926
+#EXTINF:-1,MX || A3 Series HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81946
+#EXTINF:-1,MX || ADN40 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81825
+#EXTINF:-1,MX || ADN40 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81983
+#EXTINF:-1,MX || AL JAZZERA SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81803
+#EXTINF:-1,MX || Al Jazeera HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81966
+#EXTINF:-1,MX || AMC HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81863
+#EXTINF:-1,MX || AMC HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81694
+#EXTINF:-1,MX || AMC SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81689
+#EXTINF:-1,MX || Animal Planet HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81917
+#EXTINF:-1,MX || Animal Planet SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81714
+#EXTINF:-1,MX || ANTENA3 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81792
+#EXTINF:-1,MX || ANTENA3 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81956
+#EXTINF:-1,MX || Axn HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81945
+#EXTINF:-1,MX || Axn HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81778
+#EXTINF:-1,MX || Axn Vip
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16518
+#EXTINF:-1,MX || AyM Sports HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81851
+#EXTINF:-1,MX || AZ Cinema HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81869
+#EXTINF:-1,MX || AZ Corazon HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81912
+#EXTINF:-1,MX || AZ Mundo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81900
+#EXTINF:-1,MX || Azteca Click HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81993
+#EXTINF:-1,MX || Azteca Corazon HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81861
+#EXTINF:-1,MX || Azteca 1 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81815
+#EXTINF:-1,MX || Azteca 1 Opc 2 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81753
+#EXTINF:-1,MX || Azteca 1 HD Opc 2 
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81987
+#EXTINF:-1,MX || Azteca UNO HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81974
+#EXTINF:-1,MX || Azteca UNO..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81829
+#EXTINF:-1,MX || Azteca UNO.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81837
+#EXTINF:-1,MX || Azteca 7 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81990
+#EXTINF:-1,MX || Azteca 7 SD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81832
+#EXTINF:-1,MX || Azteca 7 SD Opc 3
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81798
+#EXTINF:-1,MX || Azteca 7 SD Opc 4
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81802
+#EXTINF:-1,MX || Azteca 7 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81950
+#EXTINF:-1,MX || Azteca 7 HD Opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81963
+#EXTINF:-1,MX || Azteca Cinema SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81701
+#EXTINF:-1,MX || AZTECA CLICK SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81835
+#EXTINF:-1,MX || Azteca Corazon SD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81743
+#EXTINF:-1,MX || Azteca Corazon SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81693
+#EXTINF:-1,MX || Azteca Mundo SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81732
+#EXTINF:-1,MX || AZ Click B1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81844
+#EXTINF:-1,MX || Baby First HD | Mexico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81640
+#EXTINF:-1,MX || Baby First HD | Mexico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81958
+#EXTINF:-1,MX || Baby First SD | Mexico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81794
+#EXTINF:-1,MX || Baby TV SD | Mexico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81652
+#EXTINF:-1,MX || Bandamax SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81839
+#EXTINF:-1,MX || BANDAMAX SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81668
+#EXTINF:-1,MX || BBC World News
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81967
+#EXTINF:-1,MX || BBC World News SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81805
+#EXTINF:-1,MX || Bitme HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/97345
+#EXTINF:-1,MX || Bitme SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/109115
+#EXTINF:-1,MX || Bloomberg SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81769
+#EXTINF:-1,MX || Bloomberg SD opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81806
+#EXTINF:-1,MX || Bloomberg HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81968
+#EXTINF:-1,MX || Bloomberg HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81937
+#EXTINF:-1,MX || Boomerang HD | Mexico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81890
+#EXTINF:-1,MX || Boomerang SD | Mexico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81723
+#EXTINF:-1,MX || Cartoon Network 1 Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19087
+#EXTINF:-1,MX || Cartoon Network 2 Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19086
+#EXTINF:-1,MX || Cartoon Network HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81892
+#EXTINF:-1,MX || Cartoon Network SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81725
+#EXTINF:-1,MX || Cine Canal Vip
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16370
+#EXTINF:-1,MX || Cinecanal HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81868
+#EXTINF:-1,MX || Cinemax HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81859
+#EXTINF:-1,MX || CNN en Español
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81970
+#EXTINF:-1,MX || CNN en Español Opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81810
+#EXTINF:-1,MX || Cnn Int
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81812
+#EXTINF:-1,MX || Cnn Int Opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81971
+#EXTINF:-1,MX || De Pelicula
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81887
+#EXTINF:-1,MX || De Pelicula + SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81695
+#EXTINF:-1,MX || De pelicula Opc 1 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81720
+#EXTINF:-1,MX || De Pelicula Plus HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81864
+#EXTINF:-1,MX || Discovery Channel HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81882
+#EXTINF:-1,MX || Discovery Channel SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81715
+#EXTINF:-1,MX || HGTV HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81877
+#EXTINF:-1,MX || HGTV | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81709
+#EXTINF:-1,MX || Discovery H&H HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81713
+#EXTINF:-1,MX || Discovery H&H SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19397
+#EXTINF:-1,MX || Discovery Kids HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81899
+#EXTINF:-1,MX || DISCOVERY KIDS SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81747
+#EXTINF:-1,MX || Discovery SCI SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81710
+#EXTINF:-1,MX || Discovery Science HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81878
+#EXTINF:-1,MX || Discovery Theater HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81886
+#EXTINF:-1,MX || Discovery Theater SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81719
+#EXTINF:-1,MX || Discovery Turbo HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81916
+#EXTINF:-1,MX || Discovery TURBO SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81746
+#EXTINF:-1,MX || Discovery World HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81883
+#EXTINF:-1,MX || Discovery World SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81716
+#EXTINF:-1,MX || DISNEY CHANNEL HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81896
+#EXTINF:-1,MX || DISNEY CHANNEL SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81729
+#EXTINF:-1,MX || Disney Jr. HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81898
+#EXTINF:-1,MX || Disney Jr. SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81731
+#EXTINF:-1,MX || Disney XD HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81891
+#EXTINF:-1,MX || DISNEY XD SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81724
+#EXTINF:-1,MX || Excelsior TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81982
+#EXTINF:-1,MX || Excelsior TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81824
+#EXTINF:-1,MX || Formula Noticias
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81981
+#EXTINF:-1,MX || Formula Noticias SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81823
+#EXTINF:-1,MX || Star Action HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81873
+#EXTINF:-1,MX || Star Action SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81705
+#EXTINF:-1,MX || Star Action VIP HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16517
+#EXTINF:-1,MX || Star Channel SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81742
+#EXTINF:-1,MX || Star Channel SD Opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81791
+#EXTINF:-1,MX || Star Cinema SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81703
+#EXTINF:-1,MX || Star Cinema SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81871
+#EXTINF:-1,MX || Star Classics
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81870
+#EXTINF:-1,MX || Star Classics HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81702
+#EXTINF:-1,MX || Star Comedy Vip HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16516
+#EXTINF:-1,MX || Star Hits SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81704
+#EXTINF:-1,MX || Star Hits HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81872
+#EXTINF:-1,MX || Star Hits Vip HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16515
+#EXTINF:-1,MX || Fox News
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81808
+#EXTINF:-1,MX || Francia 24 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81914
+#EXTINF:-1,MX || Golden
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81986
+#EXTINF:-1,MX || Golden Edge SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81690
+#EXTINF:-1,MX || Golden Edge SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81858
+#EXTINF:-1,MX || Golden Plus HD 
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81866
+#EXTINF:-1,MX || Golden Plus SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81698
+#EXTINF:-1,MX || Golden SD Opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81828
+#EXTINF:-1,MX || History CHANNEL HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1132380
+#EXTINF:-1,MX || History CHANNEL SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1132379
+#EXTINF:-1,MX || History CHANNEL | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19402
+#EXTINF:-1,MX || HLN HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81796
+#EXTINF:-1,MX || HLN HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81960
+#EXTINF:-1,MX || Imagen Tv HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81913
+#EXTINF:-1,MX || IMAGEN TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81761
+#EXTINF:-1,MX || Investigation Discovery HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81908
+#EXTINF:-1,MX || Investigation Discovery HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81918
+#EXTINF:-1,MX || Investigation Discovery SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81748
+#EXTINF:-1,MX || Milenio TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81957
+#EXTINF:-1,MX || Milenio TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81643
+#EXTINF:-1,MX || Nat Geo HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81655
+#EXTINF:-1,MX || Nat Geo Kids HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81920
+#EXTINF:-1,MX || NAT GEO KIDS | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81750
+#EXTINF:-1,MX || Nat Geo SD  | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81633
+#EXTINF:-1,MX || NAT GEO SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81712
+#EXTINF:-1,MX || Nat Geo | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81645
+#EXTINF:-1,MX || NatGeo Wild HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81632
+#EXTINF:-1,MX || NatGeo Wild SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81644
+#EXTINF:-1,MX || National Geographic HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81880
+#EXTINF:-1,MX || NICK 2 HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81942
+#EXTINF:-1,MX || NICK 2 SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81774
+#EXTINF:-1,MX || Nick Jr. HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81897
+#EXTINF:-1,MX || Nick Jr. SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81730
+#EXTINF:-1,MX || Nick SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81726
+#EXTINF:-1,MX || Nick SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81727
+#EXTINF:-1,MX || Nickelodeon HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81894
+#EXTINF:-1,MX || Nickelodeon SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81893
+#EXTINF:-1,MX || NickToons HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81895
+#EXTINF:-1,MX || NickToons SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81728
+#EXTINF:-1,MX || NTN24 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81800
+#EXTINF:-1,MX || NTN24 SD Opc 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81965
+#EXTINF:-1,MX || Paramount Channel HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81977
+#EXTINF:-1,MX || Paramount SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81819
+#EXTINF:-1,MX || Sony Channel HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81954
+#EXTINF:-1,MX || Studio Universal SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81687
+#EXTINF:-1,MX || TLC HD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81915
+#EXTINF:-1,MX || TLC SD | Cultural
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81745
+#EXTINF:-1,MX || Tooncast HD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81888
+#EXTINF:-1,MX || Tooncast SD | Infantil
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81721
+#EXTINF:-1,MX || Universal Vip HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16514
+#EXTINF:-1,MX || Warner HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81953
+#EXTINF:-1,MX || Multimedios HD Mty
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1130500
+#EXTINF:-1,MX || Univision Tlnovelas
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/72815
+#EXTINF:-1,MX || Star Life Lat 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81639
+#EXTINF:-1,MX || FX SD Lat 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81634
+#EXTINF:-1,MX || Canal 2 MVS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81941
+#EXTINF:-1,MX || Star Life Lat
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81651
+#EXTINF:-1,MX || FX SD Lat
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81646
+#EXTINF:-1,MX || Distrito Comedia HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81903
+#EXTINF:-1,MX || DW SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81849
+#EXTINF:-1,MX || Europa Europa SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81985
+#EXTINF:-1,MX || Film & Arts HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81984
+#EXTINF:-1,MX || Fox HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81911
+#EXTINF:-1,MX || Garage TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81906
+#EXTINF:-1,MX || Glitz HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81905
+#EXTINF:-1,MX || NU9VE HD opc1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81817
+#EXTINF:-1,MX || Cadena H HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81979
+#EXTINF:-1,MX || Canal 26 Aguascalientes HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81944
+#EXTINF:-1,MX || Canal 4 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81921
+#EXTINF:-1,MX || Canal 8 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81928
+#EXTINF:-1,MX || Canal del Congreso SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81924
+#EXTINF:-1,MX || Comedy Central HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81936
+#EXTINF:-1,MX || Discovery H&H HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81881
+#EXTINF:-1,MX || E! HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81910
+#EXTINF:-1,MX || El Gourmet HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81666
+#EXTINF:-1,MX || Food Network HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81943
+#EXTINF:-1,MX || Fox HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81955
+#EXTINF:-1,MX || Star Life HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81904
+#EXTINF:-1,MX || Fox News HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81969
+#EXTINF:-1,MX || Fox Series HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81874
+#EXTINF:-1,~ HD Fox Series Subtitulado
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1131994
+#EXTINF:-1,MX || FXM HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81948
+#EXTINF:-1,MX || FXM HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81865
+#EXTINF:-1,MX || History HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81885
+#EXTINF:-1,MX || Hola TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81934
+#EXTINF:-1,MX || INGENIO TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81875
+#EXTINF:-1,MX || Life Time SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81663
+#EXTINF:-1,MX || Life Time HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81879
+#EXTINF:-1,MX || Mas Chic HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81933
+#EXTINF:-1,MX || Mexiquense HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81665
+#EXTINF:-1,MX || Morbido TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81860
+#EXTINF:-1,MX || MTV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81843
+#EXTINF:-1,MX || MTV Live HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81847
+#EXTINF:-1,MX || Multimedios HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81929
+#EXTINF:-1,MX || Multimedios Plus HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81980
+#EXTINF:-1,MX || Nat Geo Wild HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81884
+#EXTINF:-1,MX || NU9VE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81989
+#EXTINF:-1,MX || NU9VE HD 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81975
+#EXTINF:-1,MX || SPACE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81862
+#EXTINF:-1,MX || Star Tve HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81919
+#EXTINF:-1,MX || Studio Universal HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81951
+#EXTINF:-1,MX || Studio Universal SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81664
+#EXTINF:-1,MX || SyFy HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81909
+#EXTINF:-1,MX || Telehit Plus HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81846
+#EXTINF:-1,MX || TeleVer HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81962
+#EXTINF:-1,MX || Televisa (Leon) SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81922
+#EXTINF:-1,MX || Televisa Puebla HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81927
+#EXTINF:-1,MX || TNT HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81867
+#EXTINF:-1,MX || Tnt Series
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81907
+#EXTINF:-1,MX || CANAL Once HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81988
+#EXTINF:-1,MX || Tru TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81940
+#EXTINF:-1,MX || Latin American sports LAS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81949
+#EXTINF:-1,MX || TV MAS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81925
+#EXTINF:-1,MX || TVO HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81939
+#EXTINF:-1,MX || TVO SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81938
+#EXTINF:-1,MX || Unicable HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81935
+#EXTINF:-1,MX || VH1 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81845
+#EXTINF:-1,MX || Wobi HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81876
+#EXTINF:-1,MX || SAT SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81857
+#EXTINF:-1,MX || MTV Hits
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81842
+#EXTINF:-1,MX || RMS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81840
+#EXTINF:-1,MX || Cadena H SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81660
+#EXTINF:-1,MX || Canal 26 Aguascalientes SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81776
+#EXTINF:-1,MX || Canal 8 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81759
+#EXTINF:-1,MX || Canal Judicial SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81797
+#EXTINF:-1,MX || CINECANAL SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81700
+#EXTINF:-1,MX || Comedy Central HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81768
+#EXTINF:-1,MX || DISTRITO COMEDIA SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81735
+#EXTINF:-1,MX || DW SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81677
+#EXTINF:-1,MX || E! SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81741
+#EXTINF:-1,MX || El Gourmet SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81659
+#EXTINF:-1,MX || Film & Arts SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81826
+#EXTINF:-1,MX || Food Network SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81711
+#EXTINF:-1,MX || Star Life SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81736
+#EXTINF:-1,MX || Fox Series SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81706
+#EXTINF:-1,MX || FXM SD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81781
+#EXTINF:-1,MX || FXM SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81696
+#EXTINF:-1,MX || HISTORY SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81718
+#EXTINF:-1,MX || Hola TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81766
+#EXTINF:-1,MX || i CLASSIC SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81670
+#EXTINF:-1,MX || SAT SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81686
+#EXTINF:-1,MX || INGENIO TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81707
+#EXTINF:-1,MX || Mas Chic SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81765
+#EXTINF:-1,MX || Mexiquense SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81658
+#EXTINF:-1,MX || MTV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81642
+#EXTINF:-1,MX || MTV HITS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81672
+#EXTINF:-1,MX || MTV LIVE SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81675
+#EXTINF:-1,MX || Multimedios
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81760
+#EXTINF:-1,MX || MULTIMEDIOS P. SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81822
+#EXTINF:-1,MX || Nat Geo Wild SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81717
+#EXTINF:-1,MX || NU9VE SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81831
+#EXTINF:-1,MX || RMS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81669
+#EXTINF:-1,MX || RMS_ SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81671
+#EXTINF:-1,MX || Sony SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81790
+#EXTINF:-1,MX || SPACE SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81688
+#EXTINF:-1,MX || Star Tve SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81749
+#EXTINF:-1,MX || SyFy SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81740
+#EXTINF:-1,MX || TBS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81734
+#EXTINF:-1,MX || TCM SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81685
+#EXTINF:-1,MX || TELEHIT PLUS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81674
+#EXTINF:-1,MX || TELENOVELAS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81733
+#EXTINF:-1,MX || TELERITMO SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81799
+#EXTINF:-1,MX || Televisa Tijuana
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/109112
+#EXTINF:-1,MX || TLR SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81801
+#EXTINF:-1,MX || TNT SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81699
+#EXTINF:-1,MX || Tnt Series SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81739
+#EXTINF:-1,MX || CANAL Once SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81830
+#EXTINF:-1,MX || Cinemax SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81691
+#EXTINF:-1,MX || Europa Europa SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81827
+#EXTINF:-1,MX || Garage TV SD 
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81738
+#EXTINF:-1,MX || Glitz SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81737
+#EXTINF:-1,MX || Mexiquense SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81697
+#EXTINF:-1,MX || Morbido TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81692
+#EXTINF:-1,MX || Tru TV SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81772
+#EXTINF:-1,MX || Tv 4 (GTO)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81751
+#EXTINF:-1,MX || TV MAS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81755
+#EXTINF:-1,MX || TV5 Francia
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81744
+#EXTINF:-1,MX || TVC SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81771
+#EXTINF:-1,MX || TVE SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81678
+#EXTINF:-1,MX || Unicable SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81767
+#EXTINF:-1,MX || UNIVERSAL SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81785
+#EXTINF:-1,MX || VH1 SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81667
+#EXTINF:-1,MX || VH1 P SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81673
+#EXTINF:-1,MX || WARNER HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81789
+#EXTINF:-1,MX || Wobi SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81708
+#EXTINF:-1,MX || TBS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81902
+#EXTINF:-1,MX || TCM SD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81856
+#EXTINF:-1,MX || Telenovelas SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81901
+#EXTINF:-1,MX || TLR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81964
+#EXTINF:-1,MX || VH1 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81838
+#EXTINF:-1,MX || VH1 Classic HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/81841
+#EXTINF:-1,MX || RT en Espanol
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1137272
+#EXTINF:-1,MX || Once Niños
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1139212
+#EXTINF:-1,MX | Canal 22
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1140800
+#EXTINF:-1,MX || Dog TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/94336
+#EXTINF:-1,MX || Canal 66 Mexicali
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1148592
+#EXTINF:-1,MLB | MLB Network
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1157391
+#EXTINF:-1,NBA | NBA TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1157413
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ Cinema Latino ☆▆ ▅ ▄ ▂ ▁
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42199
+#EXTINF:-1,*Latino | Cinema 01  El club secreto de los no herederos al trono
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1139052
+#EXTINF:-1,*Latino | Cinema 02 GIMS: On the Record
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42197
+#EXTINF:-1,*Latino | Cinema 03 A Nun's Curse
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42196
+#EXTINF:-1,*Latino | Cinema 04 Mulan
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42195
+#EXTINF:-1,*Latino | Cinema 05 Good Boy
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42194
+#EXTINF:-1,*Latino | Cinema 06 El magnífico Ivan
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42193
+#EXTINF:-1,*Latino | Cinema 07 Clueless (Fuera de onda)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42192
+#EXTINF:-1,*Latino | Cinema 08 Freaks: 3 superhéroes
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42191
+#EXTINF:-1,*Latino | Cinema 09 El secreto: Atrévete a soñar
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42190
+#EXTINF:-1,*Latino | Cinema 10 The Swamp 
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42189
+#EXTINF:-1,*Latino | Cinema 11 Phineas y Ferb, la película: Candace contra el Universo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42188
+#EXTINF:-1,*Latino | Cinema 12 Juego de espías
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42187
+#EXTINF:-1,*Latino | Cinema 13 En plan estrella de rock
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42186
+#EXTINF:-1,*Latino | Cinema 14 Orígenes secretos
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42185
+#EXTINF:-1,*Latino | Cinema 15 Mi primer gran combate
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42184
+#EXTINF:-1,*Latino | Cinema 16 Rising Phoenix:
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42183
+#EXTINF:-1,*Latino | Cinema 17 Santana
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42182
+#EXTINF:-1,*Latino | Cinema 18 Remember Me, Mommy?
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42181
+#EXTINF:-1,*Latino | Cinema 19 Baba yaga terror
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42180
+#EXTINF:-1,*Latino | Cinema 20 Superman: Man of Tomorrow
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42179
+#EXTINF:-1,*Latino | Cinema 21 Train To Busan 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42178
+#EXTINF:-1,*Latino | Cinema 22 Ava
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42177
+#EXTINF:-1,*Latino | Cinema 23 The Tax Collector
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42176
+#EXTINF:-1,*Latino | Cinema 24 Waiting for the Barbarians
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42175
+#EXTINF:-1,*Latino | Cinema 25 Heartbeat
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42174
+#EXTINF:-1,*Latino | Cinema 26 Made in Italy 
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42173
+#EXTINF:-1,*Latino | Cinema 27 Green Rush
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42172
+#EXTINF:-1,*Latino | Cinema 28 One Night in Bangkok
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42171
+#EXTINF:-1,*Latino | Cinema 29 El magnífico Ivan
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42170
+#EXTINF:-1,*Latino | Cinema 30 Rogue
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42169
+#EXTINF:-1,*Latino | Cinema 31 Una noche de locos
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42168
+#EXTINF:-1,*Latino | Cinema 32 Fuego Negro
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42167
+#EXTINF:-1,*Latino | Cinema 33 Efectos Colaterales del Amor
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42166
+#EXTINF:-1,*Latino | Cinema 34 John Was Trying to Contact Aliens
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42165
+#EXTINF:-1,*Latino | Cinema 35 Undercover Punch and Gun
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42164
+#EXTINF:-1,*Latino | Cinema 36 El escándalo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/42163
+#EXTINF:-1,US: Cinema 01 Mulán
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28601
+#EXTINF:-1,US: Cinema 02 Rogue
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28600
+#EXTINF:-1,US: Cinema 03 Heartbeat
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28599
+#EXTINF:-1,US: Cinema 04 The Bay of Silence
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28598
+#EXTINF:-1,US: Cinema 05 The Owners
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28597
+#EXTINF:-1,US: Cinema 06 The Wretched
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28596
+#EXTINF:-1,US: Cinema 07 The King of Staten Island
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28595
+#EXTINF:-1,US: Cinema 08 The One and Only Ivan
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28594
+#EXTINF:-1,US: Cinema 09 Unbelievable
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28593
+#EXTINF:-1,US: Cinema 10 Valley of the Gods
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28592
+#EXTINF:-1,US: Cinema 11 The War with Grandpa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28591
+#EXTINF:-1,US: Cinema 12 All together now
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28590
+#EXTINF:-1,US: Cinema 13 Baba Yaga
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28589
+#EXTINF:-1,US: Cinema 14 Bill & Ted Face the Music
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28588
+#EXTINF:-1,US: Cinema 15 Chemical Hearts
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28587
+#EXTINF:-1,US: Cinema 16 G-Loc
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28586
+#EXTINF:-1,US: Cinema 17 Love Guaranteed
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28585
+#EXTINF:-1,US: Cinema 18 Magic Camp
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28584
+#EXTINF:-1,US: Cinema 19 Superman: Man of Tomorrow
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28583
+#EXTINF:-1,US: Cinema 20 The Great Silence
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28582
+#EXTINF:-1,US: Cinema 21 The Outpost
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28581
+#EXTINF:-1,US: Cinema 22 The Postcard Killings
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28580
+#EXTINF:-1,US: Cinema 23 The Trip To Greece
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28579
+#EXTINF:-1,US: Cinema 24 The Vast Of Night
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28578
+#EXTINF:-1,US: Cinema 25 You Should Have Left
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28577
+#EXTINF:-1,US: Cinema 26 Frankie
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28576
+#EXTINF:-1,US: Cinema 27 You're Not Alone
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28575
+#EXTINF:-1,US: Cinema 28 Stage Mother
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28574
+#EXTINF:-1,US: Cinema 29 Chemical Hearts
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28573
+#EXTINF:-1,US: Cinema 30 She Dies Tomorrow
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28572
+#EXTINF:-1,US: Cinema 31 Perfect 10
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28571
+#EXTINF:-1,US: Cinema 32 Irresistible
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28570
+#EXTINF:-1,US: Cinema 33 Beast No More
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28569
+#EXTINF:-1,US: Cinema 34 An American Pickle
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28568
+#EXTINF:-1,US: Cinema 35 Senior Love Triangle
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28567
+#EXTINF:-1,US: Cinema 36 Ravage
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28566
+#EXTINF:-1,US: Cinema 38 Nothing But the Blood
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28565
+#EXTINF:-1,US: Cinema 39 Shifter
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28564
+#EXTINF:-1,US: Cinema 40 The Tax Collector
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28563
+#EXTINF:-1,US: Cinema 41 Waiting for the Barbarians
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/28562
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ CANALES 24/7 ☆▆ ▅ ▄ ▂ ▁
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/18876
+#EXTINF:-1,24/7 VIP|| 31 Minutos (HD)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125751
+#EXTINF:-1,24/7 VIP|| Aaahh Real Monsters
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125725
+#EXTINF:-1,24/7 VIP|| Agreetsuko
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125723
+#EXTINF:-1,24/7 VIP|| Alf
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125754
+#EXTINF:-1,24/7 VIP|| Animaniacs
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125740
+#EXTINF:-1,24/7 VIP|| Big Mouth
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125679
+#EXTINF:-1,24/7 VIP|| Bob Esponja
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125727
+#EXTINF:-1,24/7 VIP|| Cinema Accion Classics
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133108
+#EXTINF:-1,24/7 VIP|| Cinema Ciencia Ficcion
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133105
+#EXTINF:-1,24/7 VIP|| Cinema Classics Horror
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125668
+#EXTINF:-1,24/7 VIP|| Cinema Comedia
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125666
+#EXTINF:-1,24/7 VIP|| Cinema DC Comics
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133114
+#EXTINF:-1,24/7 VIP|| Cinema DC Universe
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133113
+#EXTINF:-1,24/7 VIP|| Cinema Disney Family
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133110
+#EXTINF:-1,24/7 VIP|| Cinema Disney Pixar
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133111
+#EXTINF:-1,24/7 VIP|| Cinema Dreamworks
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133112
+#EXTINF:-1,24/7 VIP|| Cinema Familia
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133106
+#EXTINF:-1,24/7 VIP|| Cinema Happy Madison
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133104
+#EXTINF:-1,24/7 VIP|| Cinema Horror
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133107
+#EXTINF:-1,24/7 VIP|| Cinema Lego Movies
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133109
+#EXTINF:-1,24/7 VIP|| Cinema Marvel Animated
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133116
+#EXTINF:-1,24/7 VIP|| Cinema Marvel Studios
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133115
+#EXTINF:-1,24/7 VIP|| Cinema Navidad
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125665
+#EXTINF:-1,24/7 VIP|| Cocina Abierta
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133123
+#EXTINF:-1,24/7 VIP|| Cuentos de la Cripta
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125748
+#EXTINF:-1,24/7 VIP|| DC Hero Super Girls
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125683
+#EXTINF:-1,24/7 VIP|| Death Note
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125720
+#EXTINF:-1,24/7 VIP|| Detective Conan
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125716
+#EXTINF:-1,24/7 VIP|| Dinosaurios
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125758
+#EXTINF:-1,24/7 VIP|| Disenchantment (Ing)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125762
+#EXTINF:-1,24/7 VIP|| Disney Live Action
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125669
+#EXTINF:-1,24/7 VIP|| Disney Princess
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125670
+#EXTINF:-1,24/7 VIP|| Doraemon
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125717
+#EXTINF:-1,24/7 VIP|| Dragon Ball
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125710
+#EXTINF:-1,24/7 VIP|| Dragon Ball 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125711
+#EXTINF:-1,24/7 VIP|| Dragon Ball GT
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125712
+#EXTINF:-1,24/7 VIP|| Dragon Ball Super
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125713
+#EXTINF:-1,24/7 VIP|| Dragon Ball Z Movies
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125714
+#EXTINF:-1,24/7 VIP|| El Chavo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125753
+#EXTINF:-1,24/7 VIP|| El Laboratorio de Dexter
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125731
+#EXTINF:-1,24/7 VIP|| El Pajaro Loco
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125746
+#EXTINF:-1,24/7 VIP|| El Show de Garfield
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125690
+#EXTINF:-1,24/7 VIP|| Fenomenoide
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125741
+#EXTINF:-1,24/7 VIP|| Futurama
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125674
+#EXTINF:-1,24/7 VIP|| Gallo Claudio
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125745
+#EXTINF:-1,24/7 VIP|| Green Egg and Ham (Ing)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125764
+#EXTINF:-1,24/7 VIP|| Happy tree friends
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125677
+#EXTINF:-1,24/7 VIP|| Hechizada
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125759
+#EXTINF:-1,24/7 VIP|| HEY Kids
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133120
+#EXTINF:-1,24/7 VIP|| House of Mouse
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125701
+#EXTINF:-1,24/7 VIP|| Jimmy Neutron
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125726
+#EXTINF:-1,24/7 VIP|| Johnny Bravo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125730
+#EXTINF:-1,24/7 VIP|| Kung Fu Panda
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125724
+#EXTINF:-1,24/7 VIP|| La Casa de Mickey Mouse
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125699
+#EXTINF:-1,24/7 VIP|| La Guardia del Leon
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125698
+#EXTINF:-1,24/7 VIP|| La Sirenita
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125696
+#EXTINF:-1,24/7 VIP|| La Tropa Goofy
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125708
+#EXTINF:-1,24/7 VIP|| Lilo & Stitch
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125695
+#EXTINF:-1,24/7 VIP|| Lo Mejor de Donald
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125704
+#EXTINF:-1,24/7 VIP|| Lo Mejor de Mickey
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125702
+#EXTINF:-1,24/7 VIP|| Looney Tunes
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125743
+#EXTINF:-1,24/7 VIP|| Looney Tunes Show
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125742
+#EXTINF:-1,24/7 VIP|| Los Cazafantasmas
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125736
+#EXTINF:-1,24/7 VIP|| Los Gatos Samurai
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125719
+#EXTINF:-1,24/7 VIP|| Los Locos Adams
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125755
+#EXTINF:-1,24/7 VIP|| Los Picapiedras
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125734
+#EXTINF:-1,24/7 VIP|| Los Simpsons (HD)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125671
+#EXTINF:-1,24/7 VIP|| Los Simpsons Horror
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125673
+#EXTINF:-1,24/7 VIP|| Los Simpsons Retro
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125672
+#EXTINF:-1,24/7 VIP|| Los Supersonicos
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125733
+#EXTINF:-1,24/7 VIP|| Masha y el Oso
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125689
+#EXTINF:-1,24/7 VIP|| Mazinger Z
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125722
+#EXTINF:-1,24/7 VIP|| Moviecenter Kids
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133103
+#EXTINF:-1,24/7 VIP|| Moviecenter Premium
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125664
+#EXTINF:-1,24/7 VIP|| Moviecenter Premium Este
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133101
+#EXTINF:-1,24/7 VIP|| Moviecenter Premium Oeste
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133102
+#EXTINF:-1,24/7 VIP|| Pato Aventura
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125705
+#EXTINF:-1,24/7 VIP|| Pato Darwing
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125706
+#EXTINF:-1,24/7 VIP|| Paw Patrol
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125688
+#EXTINF:-1,24/7 VIP|| Peppa Pig
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125685
+#EXTINF:-1,24/7 VIP|| Pinguinos de Madagascar
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125728
+#EXTINF:-1,24/7 VIP|| Pinky & Cerebro
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125739
+#EXTINF:-1,24/7 VIP|| Pocoyo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125686
+#EXTINF:-1,24/7 VIP|| Quack Pack
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125707
+#EXTINF:-1,24/7 VIP|| Rick y Morty
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125678
+#EXTINF:-1,24/7 VIP|| Sailor Moon
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125715
+#EXTINF:-1,24/7 VIP|| South Park
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125676
+#EXTINF:-1,24/7 VIP|| Street Shark
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125737
+#EXTINF:-1,24/7 VIP|| Supercampeones
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125718
+#EXTINF:-1,24/7 VIP|| Talking Tom
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125692
+#EXTINF:-1,24/7 VIP|| Teen Titans GO
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125682
+#EXTINF:-1,24/7 VIP|| The Simpsons Retro (Ing)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125761
+#EXTINF:-1,24/7 VIP|| Thundercats New
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125684
+#EXTINF:-1,24/7 VIP|| Tiny Toons
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125744
+#EXTINF:-1,24/7 VIP|| Tortugas Ninja
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125735
+#EXTINF:-1,24/7 VIP|| Ultimate Spiderman (Ing)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125763
+#EXTINF:-1,24/7 VIP|| Un Show Mas
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125681
+#EXTINF:-1,24/7 VIP|| Winnie the Pooh
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125709
+#EXTINF:-1,24/7 VIP|| YooHoo and Friends
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125691
+#EXTINF:-1,24/7|| ThunderCats SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/61855
+#EXTINF:-1,24/7|| BREAKING BAD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116204
+#EXTINF:-1,24/7|| CORAJE EL PERRO COBARDE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116186
+#EXTINF:-1,24/7|| DRAGON BALL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116183
+#EXTINF:-1,24/7|| DRAGON BALL Z
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116206
+#EXTINF:-1,24/7|| El Chapulin Colorado Animado
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1113073
+#EXTINF:-1,24/7|| EL CHAPULIN COLORADO
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116178
+#EXTINF:-1,24/7|| El Chavo Animado
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/61888
+#EXTINF:-1,24/7|| El Chavo del 8 #2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/15295
+#EXTINF:-1,24/7|| El Chavo del Ocho
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/37464
+#EXTINF:-1,24/7|| El príncipe de Bel-Air
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/26498
+#EXTINF:-1,24/7|| Game of Thrones
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/18833
+#EXTINF:-1,24/7|| HE-MAN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116176
+#EXTINF:-1,24/7|| La máscara
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125557
+#EXTINF:-1,24/7|| LE TEMES A LA OSCURIDAD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116190
+#EXTINF:-1,24/7|| Los caballeros del Zodiaco HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/61900
+#EXTINF:-1,24/7|| LOS SIMPSONS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/18844
+#EXTINF:-1,24/7|| LOS SIMPSONS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116219
+#EXTINF:-1,24/7|| Los Simpsons HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/26493
+#EXTINF:-1,24/7|| MacGyver
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1125552
+#EXTINF:-1,24/7|| POKEMON
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116218
+#EXTINF:-1,24/7|| Scooby-Doo HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/61891
+#EXTINF:-1,24/7|| SMALLVILLE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116188
+#EXTINF:-1,24/7|| Super Campeones
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/61868
+#EXTINF:-1,24/7|| Two and Hald Men
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1116174
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ ●CHILE● ☆▆ ▅ ▄ ▂ ▁
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50652
+#EXTINF:-1,Chile || 24 Horas
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121401
+#EXTINF:-1,Chile || 24 Horas SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/15313
+#EXTINF:-1,Chile || 24 Horas.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121366
+#EXTINF:-1,Chile || 24 Horas..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22644
+#EXTINF:-1,Chile || Canal 13
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121367
+#EXTINF:-1,Chile || Canal 13 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121368
+#EXTINF:-1,Chile || Canal 13 HD..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1124977
+#EXTINF:-1,Chile || Canal 13.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121364
+#EXTINF:-1,Chile || Canal 13..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/15311
+#EXTINF:-1,Chile || Canal 13...
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115293
+#EXTINF:-1,Chile || Canal 13....
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115292
+#EXTINF:-1,Chile || Canal 13i
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121365
+#EXTINF:-1,Chile || Canal 13i.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22643
+#EXTINF:-1,Chile || TNT Sports HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121375
+#EXTINF:-1,Chile || TNT Sports 3
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121372
+#EXTINF:-1,Chile || CDF Basico.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121371
+#EXTINF:-1,Chile || CDF Basico...
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1119919
+#EXTINF:-1,Chile || Estadio TNT Sports SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16533
+#EXTINF:-1,Chile || TNT Sports 3
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121369
+#EXTINF:-1,Chile || Estadio TNT Sports
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121370
+#EXTINF:-1,Chile || CDF FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121373
+#EXTINF:-1,Chile || TNT Sports HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1124982
+#EXTINF:-1,Chile || Tnt Sports (720)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50648
+#EXTINF:-1,Chile || TNT Sports 2 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121379
+#EXTINF:-1,Chile || CDF HD..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121378
+#EXTINF:-1,Chile || TNT Sports 3...
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121374
+#EXTINF:-1,Chile || CDF HD....
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115294
+#EXTINF:-1,Chile || CDF HD.....
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/26820
+#EXTINF:-1,Chile || TNT Sports HD (SD)
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/18258
+#EXTINF:-1,Chile || TNT Sports HD .......
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/16368
+#EXTINF:-1,Chile || CDF Premium
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1119918
+#EXTINF:-1,Chile || TNT Sports HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115296
+#EXTINF:-1,Chile || CDF Premium.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115295
+#EXTINF:-1,Chile || TNT Sports 2..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121376
+#EXTINF:-1,Chile || TNT Sports 2...
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121377
+#EXTINF:-1,Chile || CDO
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121381
+#EXTINF:-1,Chile || CDO Basico
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121363
+#EXTINF:-1,Chile || CDO Basico.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19562
+#EXTINF:-1,Chile || CDO Premium
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121380
+#EXTINF:-1,Chile || Chilevision
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115297
+#EXTINF:-1,Chile || Chilevision FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121383
+#EXTINF:-1,Chile || Chilevision FHD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1124979
+#EXTINF:-1,Chile || Chilevision HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19894
+#EXTINF:-1,Chile || Chilevision HD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121384
+#EXTINF:-1,Chile || Chilevision.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115298
+#EXTINF:-1,Chile || Chilevision..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50646
+#EXTINF:-1,Chile || Chilevision...
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22639
+#EXTINF:-1,Chile || Chilevision....
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121385
+#EXTINF:-1,Chile || CHV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1124978
+#EXTINF:-1,Chile || CNN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121406
+#EXTINF:-1,Chile || CNN.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50645
+#EXTINF:-1,Chile || Directv Sports
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1130307
+#EXTINF:-1,Chile || Directv Sports.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22629
+#EXTINF:-1,Chile || ETC TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121387
+#EXTINF:-1,Chile || ETC TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/84538
+#EXTINF:-1,Chile || ETC TV.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121403
+#EXTINF:-1,Chile || ETC TV..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50644
+#EXTINF:-1,Chile || FM HOT Movies HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121394
+#EXTINF:-1,Chile || Fox Sports
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121404
+#EXTINF:-1,Chile || Fox Sports 1 
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14452
+#EXTINF:-1,Chile || Fox Sports 1 Premium
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14453
+#EXTINF:-1,Chile || Fox Sports 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1124983
+#EXTINF:-1,Chile || Fox Sports 2.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/46830
+#EXTINF:-1,Chile || Fox Sports.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22627
+#EXTINF:-1,Chile || La Red
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121388
+#EXTINF:-1,Chile || La Red HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121389
+#EXTINF:-1,Chile || La Red HD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50643
+#EXTINF:-1,Chile || La Red.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115301
+#EXTINF:-1,Chile || Mega
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121390
+#EXTINF:-1,Chile || Mega +
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115303
+#EXTINF:-1,Chile || Mega + HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22634
+#EXTINF:-1,Chile || Mega FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121393
+#EXTINF:-1,Chile || Mega HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1124981
+#EXTINF:-1,Chile || Mega.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115302
+#EXTINF:-1,Chile || Mega.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121392
+#EXTINF:-1,Chile || Mega..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19893
+#EXTINF:-1,Chile || Mega...
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/22635
+#EXTINF:-1,Chile || Mega....
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121391
+#EXTINF:-1,Chile || Rec TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121395
+#EXTINF:-1,Chile || Rec TV.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50640
+#EXTINF:-1,Chile || T13
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50639
+#EXTINF:-1,Chile || Teletrak
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115304
+#EXTINF:-1,Chile || Teletrak Directo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/15321
+#EXTINF:-1,Chile || TV Chile
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121399
+#EXTINF:-1,Chile || TV Chile.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115307
+#EXTINF:-1,Chile || TV Chile..
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115306
+#EXTINF:-1,Chile || TV+
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115305
+#EXTINF:-1,Chile || TVN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1133400
+#EXTINF:-1,Chile || TVN.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121396
+#EXTINF:-1,Chile || TVR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/15296
+#EXTINF:-1,Chile || TVU Concepcion
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115310
+#EXTINF:-1,Chile || Ufrovision
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1115312
+#EXTINF:-1,Chile || Valparaiso Sporting
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1121405
+#EXTINF:-1,Chile || Valparaiso Sporting.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/50650
+#EXTINF:-1,DISCOVERY CIVILIZATION- LC-1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19399
+#EXTINF:-1,US: Motor Trend
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14801
+#EXTINF:-1,Encoder - HBO Signature
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/30290
+#EXTINF:-1,ENCODER-HBO FAMILY
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/30292
+#EXTINF:-1,EUROSPORT 1 ES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14485
+#EXTINF:-1,Fox Sport 2  CLCL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/18970
+#EXTINF:-1,FOX SPORTS 3 HD LADP.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19571
+#EXTINF:-1,US: HBO Comedy HD US
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14774
+#EXTINF:-1,US: HBO Family HD US
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14772
+#EXTINF:-1,US: History HD US
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14763
+#EXTINF:-1,Mega TV HD HN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14271
+#EXTINF:-1,Movistar LaLiga HD ES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14500
+#EXTINF:-1,MULTIDEPORTE ES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14487
+#EXTINF:-1,NBC Universo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/26051
+#EXTINF:-1,Panico HD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/29706
+#EXTINF:-1,RCN HD.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/31614
+#EXTINF:-1,El salvador|| Tigo Sports  HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1130189
+#EXTINF:-1,SNT SD Par.
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19510
+#EXTINF:-1,Space Centro TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14433
+#EXTINF:-1,Space Centro Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19090
+#EXTINF:-1,Space Norte TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14434
+#EXTINF:-1,Space Norte Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19091
+#EXTINF:-1,Space Sur TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14432
+#EXTINF:-1,Space Sur Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19089
+#EXTINF:-1,Space TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14435
+#EXTINF:-1,Space Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19092
+#EXTINF:-1,Sverige|| Sverige
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1135253
+#EXTINF:-1,USA | telemundo 52 test
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/84515
+#EXTINF:-1,USA | Telemundo Chicago
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/84516
+#EXTINF:-1,Teleprogreso HN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14288
+#EXTINF:-1,Telesistema HD HN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14284
+#EXTINF:-1,TNH HN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14270
+#EXTINF:-1,TNT Centro TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14442
+#EXTINF:-1,TNT Centro Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19099
+#EXTINF:-1,TNT Norte TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14443
+#EXTINF:-1,TNT Pacifico Chile TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14441
+#EXTINF:-1,TNT Pacifico Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19098
+#EXTINF:-1,TNT Series 2 TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14437
+#EXTINF:-1,TNT Series 2 Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19094
+#EXTINF:-1,TNT Series TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14438
+#EXTINF:-1,TNT Series Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19095
+#EXTINF:-1,TNT SERIES- LC
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19371
+#EXTINF:-1,TNT Sur TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14440
+#EXTINF:-1,TNT Sur Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19097
+#EXTINF:-1,TNT TrL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14444
+#EXTINF:-1,TNT Turgo
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/19100
+#EXTINF:-1,Vica TV HN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14282
+#EXTINF:-1,WIN SPOTS PLUS SD OP2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1131114
+#EXTINF:-1,WINSPORTS + PLUS SD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1131113
+#EXTINF:-1,WWE US
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/14711
+#EXTINF:-1,Dep || TUDN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/103636
+#EXTINF:-1,CGTN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1135605
+#EXTINF:-1,===|||-ESPAÑA 3-|||===
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/25871
+#EXTINF:-1,||ES3|| #0 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123756
+#EXTINF:-1,||ES3|| #V DIRECTO
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123834
+#EXTINF:-1,||ES3|| 24 HORAS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123724
+#EXTINF:-1,||ES3|| A3SERIES HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123726
+#EXTINF:-1,||ES3|| AMC HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123727
+#EXTINF:-1,||ES3|| ANDALUCIA TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123728
+#EXTINF:-1,||ES3|| ANTENA 3 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123690
+#EXTINF:-1,||ES3|| ARAGON TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123729
+#EXTINF:-1,||ES3|| AXN HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123693
+#EXTINF:-1,||ES3|| AXN WHITE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123730
+#EXTINF:-1,||ES3|| BABY TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123790
+#EXTINF:-1,||ES3|| BARCA TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123816
+#EXTINF:-1,||ES3|| BE MAD FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123733
+#EXTINF:-1,||ES3|| BEIN LA LIGA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123824
+#EXTINF:-1,||ES3|| BEIN LALIGA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123825
+#EXTINF:-1,||ES3|| BEIN LALIGA 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123842
+#EXTINF:-1,||ES3|| BEIN LALIGA 2 FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123844
+#EXTINF:-1,||ES3|| BEIN LALIGA 5
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123847
+#EXTINF:-1,||ES3|| BEIN LALIGA 7
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123849
+#EXTINF:-1,||ES3|| BEIN LALIGA 8
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123850
+#EXTINF:-1,||ES3|| BEIN LALIGA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123823
+#EXTINF:-1,||ES3|| BLAZE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123734
+#EXTINF:-1,||ES3|| BOING HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123731
+#EXTINF:-1,||ES3|| C TOROS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123695
+#EXTINF:-1,||ES3|| CALLE 13 FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123696
+#EXTINF:-1,||ES3|| CANAL 24 HORAS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123697
+#EXTINF:-1,||ES3|| CANAL COCINA FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123698
+#EXTINF:-1,||ES3|| CANAL ODISEA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123715
+#EXTINF:-1,||ES3|| CANAL ORBE 21 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123735
+#EXTINF:-1,||ES3|| CANAL SUR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123699
+#EXTINF:-1,||ES3|| CAZA  Y PESCA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123806
+#EXTINF:-1,||ES3|| CAZA Y PESCA FULLHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123807
+#EXTINF:-1,||ES3|| CAZA Y PESCA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123716
+#EXTINF:-1,||ES3|| CLAN TVE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123700
+#EXTINF:-1,||ES3|| COCINA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123736
+#EXTINF:-1,||ES3|| COMEDY CENTRAL HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123717
+#EXTINF:-1,||ES3|| COSMO HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123718
+#EXTINF:-1,||ES3|| COSMOPOLITAN  FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123737
+#EXTINF:-1,||ES3|| CUATRO HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123691
+#EXTINF:-1,||ES3|| DAZN FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123884
+#EXTINF:-1,||ES3|| DECASA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123738
+#EXTINF:-1,||ES3|| DEPORTES 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123701
+#EXTINF:-1,||ES3|| DISCOVERY CHANNEL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123809
+#EXTINF:-1,||ES3|| DISCOVERY CHANNEL HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123808
+#EXTINF:-1,||ES3|| DISNEY CHANNEL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123793
+#EXTINF:-1,||ES3|| DISNEY CHANNEL HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123792
+#EXTINF:-1,||ES3|| DISNEY JUNIOR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123794
+#EXTINF:-1,||ES3|| DISNEY XD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123795
+#EXTINF:-1,||ES3|| DIVINITY
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123739
+#EXTINF:-1,||ES3|| DIVINITY HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123702
+#EXTINF:-1,||ES3|| DMAX
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123740
+#EXTINF:-1,||ES3|| ENERGY
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123741
+#EXTINF:-1,||ES3|| EUROSPORT
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123819
+#EXTINF:-1,||ES3|| EUROSPORT 1 FULL HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123820
+#EXTINF:-1,||ES3|| EUROSPORT 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123821
+#EXTINF:-1,||ES3|| EUROSPORT 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123822
+#EXTINF:-1,||ES3|| EXTREMADURA TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123881
+#EXTINF:-1,||ES3|| EXTREME EMEA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123882
+#EXTINF:-1,||ES3|| FDF
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123742
+#EXTINF:-1,||ES3|| FOX
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123743
+#EXTINF:-1,||ES3|| FOX FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123719
+#EXTINF:-1,||ES3|| FOX LIFE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123744
+#EXTINF:-1,||ES3|| FOX LIFE FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123720
+#EXTINF:-1,||ES3|| GOL TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123835
+#EXTINF:-1,||ES3|| HISTORIA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123811
+#EXTINF:-1,||ES3|| HISTORIA FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123810
+#EXTINF:-1,||ES3|| HIT TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123802
+#EXTINF:-1,||ES3|| HOLLYWOOD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123745
+#EXTINF:-1,||ES3|| HOLLYWOOD HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123703
+#EXTINF:-1,||ES3|| IBERALIA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123746
+#EXTINF:-1,||ES3|| INTERECONOMIA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123747
+#EXTINF:-1,||ES3|| LA 1 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123688
+#EXTINF:-1,||ES3|| LA 2 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123689
+#EXTINF:-1,||ES3|| LA OTRA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123732
+#EXTINF:-1,||ES3|| LA SEXTA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123704
+#EXTINF:-1,||ES3|| LALIGA TV BAR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123827
+#EXTINF:-1,||ES3|| LIGA 123 FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123828
+#EXTINF:-1,||ES3|| LIGA 123 MULTI 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123851
+#EXTINF:-1,||ES3|| LIGA 123 MULTI 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123852
+#EXTINF:-1,||ES3|| LIGA 123 MULTI 3
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123853
+#EXTINF:-1,||ES3|| Movistar Liga
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123829
+#EXTINF:-1,||ES3|| LIGA CAMPEONES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123830
+#EXTINF:-1,||ES3|| LIGA CAMPEONES 2 FULLHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123856
+#EXTINF:-1,||ES3|| LIGA CAMPEONES 2 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123857
+#EXTINF:-1,||ES3|| LIGA CAMPEONES HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123833
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 1 Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123854
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 1 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123855
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 2  Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123858
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 3  Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123859
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 4  Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123860
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 5  Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123861
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 6  Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123862
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 7  Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123863
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES 8 Espa
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123864
+#EXTINF:-1,||ES3|| LIGA DE CAMPEONES FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123831
+#EXTINF:-1,||ES3|| LIGA TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123865
+#EXTINF:-1,||ES3|| LIGATV FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123826
+#EXTINF:-1,||ES3|| M DCINE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123707
+#EXTINF:-1,||ES3|| M DEPORTES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123694
+#EXTINF:-1,||ES3|| M LIGA DE CAMPEONES 1 HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123832
+#EXTINF:-1,||ES3|| M SERIES XTRA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123709
+#EXTINF:-1,||ES3|| M. CINE DOC ROLL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123723
+#EXTINF:-1,||ES3|| M. DEPORTES 1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123866
+#EXTINF:-1,||ES3|| M. DEPORTES 2
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123867
+#EXTINF:-1,||ES3|| MEGA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123755
+#EXTINF:-1,||ES3|| MEZZO LIVE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123803
+#EXTINF:-1,||ES3|| MEZZO LIVE FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123804
+#EXTINF:-1,||ES3|| MEZZO LIVE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123801
+#EXTINF:-1,||ES3|| MOVISTAR 0#
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123757
+#EXTINF:-1,||ES3|| MOVISTAR 0# FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123758
+#EXTINF:-1,||ES3|| MOVISTAR ACCION FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123763
+#EXTINF:-1,||ES3|| MOVISTAR ACCION HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123705
+#EXTINF:-1,||ES3|| MOVISTAR ACCION HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123759
+#EXTINF:-1,||ES3|| MOVISTAR CINEDOC&ROLL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123764
+#EXTINF:-1,||ES3|| MOVISTAR COMEDIA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123765
+#EXTINF:-1,||ES3|| MOVISTAR COMEDIA FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123766
+#EXTINF:-1,||ES3|| MOVISTAR COMEDIA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123706
+#EXTINF:-1,||ES3|| MOVISTAR DCINE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123838
+#EXTINF:-1,||ES3|| MOVISTAR DEPORTE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123767
+#EXTINF:-1,||ES3|| MOVISTAR DEPORTES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123760
+#EXTINF:-1,||ES3|| MOVISTAR DISNEY
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123791
+#EXTINF:-1,||ES3|| MOVISTAR DRAMA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123768
+#EXTINF:-1,||ES3|| MOVISTAR DRAMA FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123769
+#EXTINF:-1,||ES3|| MOVISTAR ESTRENOS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123770
+#EXTINF:-1,||ES3|| MOVISTAR ESTRENOS FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123771
+#EXTINF:-1,||ES3|| MOVISTAR ESTRENOS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123708
+#EXTINF:-1,||ES3|| MOVISTAR F1
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123839
+#EXTINF:-1,||ES3|| MOVISTAR FORMULA 1 FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123836
+#EXTINF:-1,||ES3|| MOVISTAR GOLF
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123840
+#EXTINF:-1,||ES3|| MOVISTAR GOLF FHD/HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123841
+#EXTINF:-1,||ES3|| MOVISTAR SERIES
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123772
+#EXTINF:-1,||ES3|| MOVISTAR SERIES FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123773
+#EXTINF:-1,||ES3|| MOVISTAR SERIESMANIA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123774
+#EXTINF:-1,||ES3|| MOVISTAR TOROS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123775
+#EXTINF:-1,||ES3|| MOVISTAR TOROS TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123761
+#EXTINF:-1,||ES3|| MOVISTAR VAMOS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123762
+#EXTINF:-1,||ES3|| MOVISTAR VAMOS FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123776
+#EXTINF:-1,||ES3|| MOVISTAR XTRA FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123778
+#EXTINF:-1,||ES3|| MTV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123805
+#EXTINF:-1,||ES3|| MULTIDEPORTE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123779
+#EXTINF:-1,||ES3|| MULTIFUTBOL 8
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123880
+#EXTINF:-1,||ES3|| NAT GEO
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123813
+#EXTINF:-1,||ES3|| NAT GEO  WILD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123815
+#EXTINF:-1,||ES3|| NAT GEO FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123812
+#EXTINF:-1,||ES3|| NAT GEO WILD FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123814
+#EXTINF:-1,||ES3|| NEOX
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123780
+#EXTINF:-1,||ES3|| NEOX HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123721
+#EXTINF:-1,||ES3|| NICK JR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123796
+#EXTINF:-1,||ES3|| NICKELODEON
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123800
+#EXTINF:-1,||ES3|| NICKELODEON FULLHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123797
+#EXTINF:-1,||ES3|| NICKELODEON HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123799
+#EXTINF:-1,||ES3|| NICKLEDEON HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123798
+#EXTINF:-1,||ES3|| NOVA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123714
+#EXTINF:-1,||ES3|| ODISEA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123781
+#EXTINF:-1,||ES3|| PANDA
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123782
+#EXTINF:-1,||ES3|| PARAMOUNT CHANNEL
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123752
+#EXTINF:-1,||ES3|| REAL MADRID TV
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123818
+#EXTINF:-1,||ES3|| REAL MADRID TV HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123817
+#EXTINF:-1,||ES3|| SERIESMANIA HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123722
+#EXTINF:-1,||ES3|| SOMOS
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123783
+#EXTINF:-1,||ES3|| SUNDANCE
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123749
+#EXTINF:-1,||ES3|| SYFY
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123750
+#EXTINF:-1,||ES3|| SYFY FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123751
+#EXTINF:-1,||ES3|| SYFY HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123710
+#EXTINF:-1,||ES3|| TCM
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123754
+#EXTINF:-1,||ES3|| TCM FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123711
+#EXTINF:-1,||ES3|| TELECINCO FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123784
+#EXTINF:-1,||ES3|| TELECINCO HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123692
+#EXTINF:-1,||ES3|| TELEDEPORTE HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123712
+#EXTINF:-1,||ES3|| TELEMADRID FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123785
+#EXTINF:-1,||ES3|| TEN
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123786
+#EXTINF:-1,||ES3|| TNT
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123753
+#EXTINF:-1,||ES3|| TNT FHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123713
+#EXTINF:-1,||ES3|| TV 13
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123787
+#EXTINF:-1,||ES3|| VAMOS HD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123777
+#EXTINF:-1,||ES3|| VIAJAR
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123788
+#EXTINF:-1,||ES3|| VIAJAR FULLHD
+http://moontools.me:8080/latino76md3456/zGRAvL9W8k/1123789
