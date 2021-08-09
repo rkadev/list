@@ -74,7 +74,3 @@ http://tvready.org:25461/23763235/36984944/11116
 http://tvready.org:25461/23763235/36984944/11114
 #EXTINF:0 type="video" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 (Opción 2)
 http://tvready.org:25461/23763235/36984944/11115
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="109" group-title="Lista 05" ,DISCOVERY HOME AND HEALTH HD
-http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68268
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="110" group-title="Lista 05" ,DISCOVERY HOME AND HEALTH
-http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56216
