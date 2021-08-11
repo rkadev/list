@@ -74,3 +74,9 @@ http://tvready.org:25461/23763235/36984944/11116
 http://tvready.org:25461/23763235/36984944/11114
 #EXTINF:0 type="video" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 (Opción 2)
 http://tvready.org:25461/23763235/36984944/11115
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://tv.naturalplus.live:25461/images/5a23451ccebcecbc16a7870726d1c0d9.png" group-title="CULTURAS & EDUCATIVOS",HGTV
+http://tv.naturalplus.live:25461/angel3574@tiendafulldigital/fulldigital1573/157
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://tv.naturalplus.live:25461/images/8292e81ddd286cd8342806087514c06e.png" group-title="CULTURA & EDUCATIVOS HD",DISCOVERY HOME & HEALTH HD
+http://tv.naturalplus.live:25461/angel3574@tiendafulldigital/fulldigital1573/178
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://tv.naturalplus.live:25461/images/8292e81ddd286cd8342806087514c06e.png" group-title="CULTURAS & EDUCATIVOS",DISCOVERY HOME & HEALTH
+http://tv.naturalplus.live:25461/angel3574@tiendafulldigital/fulldigital1573/150
