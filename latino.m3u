@@ -10,4 +10,8 @@ http://201.220.141.118:8000/play/a04t/index.m3u8
 http://201.220.141.118:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", Discovery H&H
 http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN MX | HD
+http://tvready.org:25461/23763235/36984944/11170
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN | HD
+http://tvready.org:25461/23763235/36984944/11189
 
