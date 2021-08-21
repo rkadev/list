@@ -76,7 +76,12 @@ http://tvready.org:25461/23763235/36984944/11114
 http://tvready.org:25461/23763235/36984944/11115
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://tv.naturalplus.live:25461/images/5a23451ccebcecbc16a7870726d1c0d9.png" group-title="CULTURAS & EDUCATIVOS",HGTV
 http://tv.naturalplus.live:25461/angel3574@tiendafulldigital/fulldigital1573/157
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://tv.naturalplus.live:25461/images/8292e81ddd286cd8342806087514c06e.png" group-title="CULTURA & EDUCATIVOS HD",DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="ENTRETENIMIENTO", Discovery Home & Health
 http://balancer1.iptvmx.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://tv.naturalplus.live:25461/images/8292e81ddd286cd8342806087514c06e.png" group-title="CULTURAS & EDUCATIVOS",DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", Discovery Home & Health
 http://201.220.141.118:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", Home & Health HD
+http://201.220.141.118:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", Discovery H&H
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
+
