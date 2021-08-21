@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://tv.naturalplus.live:25461/images/5a23451ccebcecbc16a7870726d1c0d9.png" group-title="CULTURAS & EDUCATIVOS",HGTV
-http://tv.naturalplus.live:25461/angel3574@tiendafulldigital/fulldigital1573/157
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="ENTRETENIMIENTO", Discovery Home & Health
 http://balancer1.iptvmx.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", Discovery Home & Health
