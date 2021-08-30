@@ -1,23 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="ENTRETENIMIENTO", Discovery Home & Health
-http://balancer1.iptvmx.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", Discovery Home & Health
-http://201.220.141.118:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", Home & Health HD
-http://201.220.141.118:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", Discovery H&H
-http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN MX | HD
-http://tvready.org:25461/23763235/36984944/11170
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN | HD
-http://tvready.org:25461/23763235/36984944/11189
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MÁS CANALES", CANAL 5 MX | HD
-http://195.181.163.39:80/LAT_Canal_5_HD/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0a
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", Discovery ID HD
-http://201.220.141.118:8000/play/a06r/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", FX HD
-http://201.220.141.118:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 2", FX Movies HD
-http://201.220.141.118:8000/play/a05t/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Home & Health SD" tvg-logo="http://compitv.info:8080/images/b54491c806afbe0c233a20b3b9754cbe.png" group-title="CULTURA & PREMIUM",DISCOVERY Home & Health SD
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/252439
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Home & Health HD" tvg-logo="http://compitv.info:8080/images/b54491c806afbe0c233a20b3b9754cbe.png" group-title="CULTURA & PREMIUM",DISCOVERY Home & Health HD
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/252440
+#EXTINF:-1 tvg-id="" tvg-name="HGTV | ENTERTAINMENT USA" tvg-logo="" group-title="ENTERTAINMENT USA",HGTV | ENTERTAINMENT USA
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/85370
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="http://compitv.info:8080/images/56abe80d4636256b0e1cc27268999802.png" group-title="CULTURA & PREMIUM",HOLA TV
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/252462
+#EXTINF:-1 tvg-id="" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="USA PREMIUM",USA | HGTV
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/120942
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN USA" tvg-logo="" group-title="⚽️  DEPORTES PREMIUN ",DEPORTES | TUDN USA
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/126653
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | TUDN USA." tvg-logo="" group-title="COSTA RICA",COSTA RICA | TUDN USA.
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/126739
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://compitv.info:8080/images/0a378dec7dbafca5fc2f23956d0ff5cb.png" group-title="⚽️  DEPORTES PREMIUN ",DEPORTES | TUDN
+http://compitv.info:8080/Carlos123/YnyRHjfF6F/71261
